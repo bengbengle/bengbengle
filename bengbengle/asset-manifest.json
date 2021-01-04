@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.1fd54b7c.chunk.js": "/bengbengle/static/js/0.1fd54b7c.chunk.js",
+    "main.css": "/bengbengle/static/css/main.ffcc6ad9.chunk.css",
+    "main.js": "/bengbengle/static/js/main.36fc6fd4.chunk.js",
+    "runtime-main.js": "/bengbengle/static/js/runtime-main.78306e7c.js",
+    "static/js/3.cab2bd14.chunk.js": "/bengbengle/static/js/3.cab2bd14.chunk.js",
+    "static/js/4.6a6f5949.chunk.js": "/bengbengle/static/js/4.6a6f5949.chunk.js",
+    "static/js/5.70b2a690.chunk.js": "/bengbengle/static/js/5.70b2a690.chunk.js",
+    "static/js/6.726aba50.chunk.js": "/bengbengle/static/js/6.726aba50.chunk.js",
+    "static/js/7.61fbb449.chunk.js": "/bengbengle/static/js/7.61fbb449.chunk.js",
+    "static/js/8.71d65be8.chunk.js": "/bengbengle/static/js/8.71d65be8.chunk.js",
+    "static/js/9.97715920.chunk.js": "/bengbengle/static/js/9.97715920.chunk.js",
+    "static/js/10.782608e6.chunk.js": "/bengbengle/static/js/10.782608e6.chunk.js",
+    "static/js/11.92f53288.chunk.js": "/bengbengle/static/js/11.92f53288.chunk.js",
+    "index.html": "/bengbengle/index.html",
+    "precache-manifest.e0cef8df5dbef8cbb59f934b651f4460.js": "/bengbengle/precache-manifest.e0cef8df5dbef8cbb59f934b651f4460.js",
+    "service-worker.js": "/bengbengle/service-worker.js",
+    "static/js/3.cab2bd14.chunk.js.LICENSE.txt": "/bengbengle/static/js/3.cab2bd14.chunk.js.LICENSE.txt",
+    "static/js/5.70b2a690.chunk.js.LICENSE.txt": "/bengbengle/static/js/5.70b2a690.chunk.js.LICENSE.txt",
+    "static/js/6.726aba50.chunk.js.LICENSE.txt": "/bengbengle/static/js/6.726aba50.chunk.js.LICENSE.txt",
+    "static/js/7.61fbb449.chunk.js.LICENSE.txt": "/bengbengle/static/js/7.61fbb449.chunk.js.LICENSE.txt",
+    "static/js/8.71d65be8.chunk.js.LICENSE.txt": "/bengbengle/static/js/8.71d65be8.chunk.js.LICENSE.txt",
+    "static/media/DAI.png": "/bengbengle/static/media/DAI.17db7fc2.png",
+    "static/media/USDC.png": "/bengbengle/static/media/USDC.c76b33ca.png",
+    "static/media/USDT.png": "/bengbengle/static/media/USDT.839a0f0d.png",
+    "static/media/basis-bond-logo.svg": "/bengbengle/static/media/basis-bond-logo.80fb5592.svg",
+    "static/media/basis-cash-logo.svg": "/bengbengle/static/media/basis-cash-logo.89e29678.svg",
+    "static/media/basis-share-logo.svg": "/bengbengle/static/media/basis-share-logo.466cf09b.svg",
+    "static/media/farmer.png": "/bengbengle/static/media/farmer.0a327c74.png",
+    "static/media/sUSD.png": "/bengbengle/static/media/sUSD.f8fec857.png",
+    "static/media/ycrv.png": "/bengbengle/static/media/ycrv.88ae1ab3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78306e7c.js",
+    "static/js/3.cab2bd14.chunk.js",
+    "static/css/main.ffcc6ad9.chunk.css",
+    "static/js/main.36fc6fd4.chunk.js"
+  ]
+}
