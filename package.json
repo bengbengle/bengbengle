@@ -2,7 +2,38 @@
   "name": "basis.cash",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://localhost:5500/bengbengle/",
+  "homepage":"./",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build",
+    "publish": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/numeral": "0.0.28",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/styled-components": "^5.1.2",
+    "prettier": "^2.1.1"
+  },
   "dependencies": {
     "@ethersproject/providers": "^5.0.9",
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
@@ -35,34 +66,5 @@
     "typescript": "^3.9.7",
     "use-wallet": "^0.8.0",
     "web3": "^1.2.11"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "CI= GENERATE_SOURCEMAP=false react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "@types/numeral": "0.0.28",
-    "@types/react-dom": "^16.9.8",
-    "@types/react-router-dom": "^5.1.5",
-    "@types/styled-components": "^5.1.2",
-    "prettier": "^2.1.1"
   }
 }
